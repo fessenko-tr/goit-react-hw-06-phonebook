@@ -1,0 +1,11 @@
+.form {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.label,
+.input {
+  display: block;
+  margin-bottom: 10px;
+}
